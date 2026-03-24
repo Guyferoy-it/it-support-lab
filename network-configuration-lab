@@ -1,0 +1,16 @@
+# Network Configuration Lab
+
+## Overview
+Basic network setup and configuration project.
+
+## Tasks Performed
+- Configured IP addressing
+- Set up VLANs
+- Tested connectivity between devices
+
+## Tools Used
+- Routers and switches
+- Networking protocols (TCP/IP)
+
+## Outcome
+Built a functional small network simulating a business environment.
